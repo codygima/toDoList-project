@@ -1,0 +1,81 @@
+/* Base styles */
+body {
+  font-family: "Slate Pro Black", sans-serif;
+  font-family: "Slate Pro Medium", sans-serif;
+  background-color: #80abea;
+  height: max-content;
+}
+
+/* Header */
+.todo-header {
+  font-family: "Slate Pro Black";
+  font-weight: 400;
+  display: flex;
+  align-items: top;
+}
+
+/* Form */
+.enter-item-form {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+#input-item {
+  font-family: "Slate Pro Medium";
+  font-size: x-large;
+  color: black;
+  padding: 10px;
+  background-color: white;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: black;
+}
+
+.add-button {
+  margin-top: 5px;
+  background-color: #5cb85c;
+  color: #ffffff;
+  cursor: pointer;
+  border-radius: 10px;
+  border-style: solid;
+  transition: background-color 0.3s;
+}
+
+.add-button:hover {
+  background-color: #4cae4c;
+}
+.add-button:active {
+  background-color: #4cae4c;
+  box-shadow: #90b590;
+}
+
+/* To-do List */
+.item-list {
+  font-size: medium;
+}
+
+.to-do-item {
+  background-color: white;
+  color: black;
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.pau-button {
+  background-color: rgb(244, 46, 46);
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+  transition: color 0.3s;
+}
+
+.pau-button:hover {
+  color: whitesmoke;
+  transition: opacity 0.2;
+}
