@@ -10,7 +10,7 @@ This to-do list was created using exclusively React plus Vite. The code is relat
 + Vite, can be done by running this command on your terminal: `npm install -D vite`
 + [Node.js](https://nodejs.org/en)
 
-### Installation and Usage
+## Installation and Usage
 To install React To-Do List, make sure you installed all the prerequisites to your computer, then open your local terminal and run the following commands:
 
 1. Clone the Repository:
