@@ -35,3 +35,6 @@ npm run dev
 In the terminal there should be a URL that you can use to host the website using your local browser. The URL should look something like `http://localhost:3000`.
 
 Now you will be able to view and make changes to the code to see how it affects the user interface hopefully helping you get familiar with React!
+
+## Back to Main Repository:
+https://github.com/codygima/ARL_Project.git
