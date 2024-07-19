@@ -21,11 +21,10 @@ git clone https://github.com/codygima/toDoList-project.git
 ```bash
 cd toDoList-project
 ```
-3. Open Visual Studio Code:
+3. Install the Dependencies
 ```bash
-code .
+npm install
 ```
-### In the terminal within VS Code run the rest of the commands:
 4. Run the Program:
 ```bash
 npm run dev
@@ -33,6 +32,6 @@ npm run dev
 
 5. Copy the Local URL:
 
-In the terminal there should be a URL that you can use to host the website using your local browser. The URL should look something like, http://localhost:3000.
+In the terminal there should be a URL that you can use to host the website using your local browser. The URL should look something like `http://localhost:3000`.
 
 Now you will be able to view and make changes to the code to see how it affects the user interface hopefully helping you get familiar with React!
